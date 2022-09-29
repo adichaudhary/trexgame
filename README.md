@@ -1,2 +1,2 @@
 # trexgame
-T-rex game for Whitehat Jr.
+T-rex game.
